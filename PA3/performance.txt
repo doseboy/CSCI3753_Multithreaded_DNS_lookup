@@ -1,0 +1,39 @@
+Number for requester thread = 1
+Number for resolver thread = 1
+Total run time: 6.801888 seconds
+Thread a5b96700 serviced 5 files.
+Number for requester thread = 1
+Number for resolver thread = 3
+Total run time: 2.814053 seconds.
+Thread 89673700 serviced 5 files.
+Number for requester thread = 3
+Number for resolver thread = 1
+Total run time: 6.178427 seconds.
+Thread 971a2700 serviced 4 files.
+Thread 969a1700 serviced 1 files.
+Thread 961a0700 serviced 0 files.
+Number for requester thread = 3
+Number for resolver thread = 3
+Total run time: 2.746251 seconds.
+Thread c1301700 serviced 1 files.
+Thread c0b00700 serviced 3 files.
+Thread bbfff700 serviced 1 files.
+Number for requester thread = 5
+Number for resolver thread = 5
+Total run time: 2.059036 seconds.
+Thread 39cb4700 serviced 1 files.
+Thread 394b3700 serviced 1 files.
+Thread 38cb2700 serviced 1 files.
+Thread 2bfff700 serviced 1 files.
+Thread 2b7fe700 serviced 1 files.
+Number for requester thread = 8
+Number for resolver thread = 5
+Total run time: 2.344545 seconds.
+Thread c3555700 serviced 1 files.
+Thread bad54700 serviced 2 files.
+Thread c2d54700 serviced 1 files.
+Thread c1d52700 serviced 1 files.
+Thread c3555700 serviced 0 files.
+Thread c1551700 serviced 0 files.
+Thread c0d50700 serviced 0 files.
+Thread bbfff700 serviced 0 files.
